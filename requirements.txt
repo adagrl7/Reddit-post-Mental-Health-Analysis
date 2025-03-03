@@ -1,0 +1,11 @@
+praw==7.7.1
+pandas>=2.0.0,<2.1.0  # Try an earlier 2.x version
+numpy>=1.24.3  # Allow newer versions of numpy
+nltk==3.8.1
+matplotlib==3.7.2
+seaborn==0.12.2
+textblob==0.17.1
+python-dotenv==1.0.0
+jupyter==1.0.0
+streamlit==1.23.1
+
