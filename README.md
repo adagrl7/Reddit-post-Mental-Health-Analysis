@@ -1,4 +1,5 @@
-Reddit Mental Health Analysis
+# Reddit-post-Mental-Health-Analysis
+
 Analyzing Mental Health Discourse on Reddit Using NLP and Sentiment Analysis
 
 This project explores mental health discussions on Reddit to identify trends, sentiment patterns, and common themes in communities like r/depression and r/Anxiety. Leveraging Python and Natural Language Processing (NLP), the analysis aims to uncover insights into how users express mental health struggles, stigma, and support strategies.
@@ -19,4 +20,4 @@ Tools: Python, Jupyter Notebook, Pandas, NLTK, spaCy, Scikit-learn
 NLP Libraries: Transformers (Hugging Face), Gensim
 
 Data Sources: Reddit API, Kaggle mental health datasets
-# Reddit-post-Mental-Health-Analysis
+
